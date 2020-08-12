@@ -1,5 +1,3 @@
-
-
 public class Cash implements IPayment {
     @Override
     public void pay() {
